@@ -73,6 +73,4 @@ LinkedIn: www.linkedin.com/in/samuelshobowale
 
 Email: samuelshobowale828@gmail.com
 
-I am open to Web Analyst, Digital Analyst, Data Analyst, and Dashboard Developer internship or entry-level roles.
-
-This README immediately makes your GitHub look professional.
+I am open to Web Analyst, Digital Analyst, and Dashboard Developer internship or entry-level roles.
